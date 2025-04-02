@@ -23,3 +23,5 @@ const opcoesDeAcessibilidade = document.getElementById('opcoes-acessibilidade')
     botaoDeAcessibilidade.classList.toggle('rotacao-botao');
     opcoesDeAcessibilidade.classList.toggle('apresenta-lista')
  })
+
+ const botaoDeAcessibilidade = document.getElementById 

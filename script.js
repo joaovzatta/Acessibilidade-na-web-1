@@ -16,3 +16,6 @@ document.addEventListener('DOMContentLoaded', function(){
     });
 
 });
+
+const botaoDeAcessibilidade = document.getElementById('botao-acessiblidade')
+const opcoesDeAcessibilidade = document.getElementById('opcoes-acessibilidade')
